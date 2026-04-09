@@ -18,7 +18,7 @@ public class EvolutionApiService {
     // Nota: Para producción, es mejor mover estos valores al archivo
     // application.properties
     private final String baseUrl = "http://evoapi.luminari-labs.space";
-    private final String globalApiKey = "TU_GLOBAL_API_KEY_AQUI";
+    private final String globalApiKey = "9P30CB28DRB5";
     private final RestTemplate restTemplate;
 
     public EvolutionApiService() {
